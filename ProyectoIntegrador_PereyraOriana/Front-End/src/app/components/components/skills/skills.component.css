@@ -1,0 +1,11 @@
+.row{
+    background-color:#CEC6FF;
+    padding: 20px ;
+    overflow: hidden;
+}
+#skills{
+    color:ghostwhite;
+    margin-left:85px;
+    margin-bottom: 50px; 
+    background-color: blueviolet;
+}

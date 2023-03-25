@@ -1,0 +1,26 @@
+.row{
+    padding: 50px;
+}
+div{
+    background-color: #CEC6FF;
+}
+h2, h3{
+    display: inline;
+}
+#formacion{
+    margin-bottom: 40px;
+    margin-left: 3%;
+    color: ghostwhite;
+    background-color: blueviolet;
+}
+
+ul li {
+    list-style-type: none;
+ }
+
+#educacion{
+    color: #194d77;
+}
+h3{
+    color: ghostwhite;
+}
